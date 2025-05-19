@@ -9,4 +9,5 @@ class Municipio extends Model
 protected $table = 'tb_municipio';
 protected $primaryKey = 'muni_codi';
 public $timestamps = false;
+//Cree este modelo de municipio 
 }
